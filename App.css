@@ -1,0 +1,80 @@
+*{
+  background-color: rgb(255, 255, 255);
+  margin:5px ;
+}
+
+.card-title {
+  color: white;
+  background-color: rgba(246, 141, 85, 0.954);
+  margin-top: 2%;
+
+}
+
+.input {
+  width: 30%;
+  height: 25px;
+  margin-left:1%;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  padding: 0px 10px 0px 10px;
+  background-color: white;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.butt {
+ 
+  width: 70px;
+  height: 30px;
+  margin-left:1%;
+  margin-bottom: 2%;
+  margin-top: 4%;
+  background-color: white;
+  padding: 3px 13px;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 60px;
+  border: 2px solid rgb(245, 245, 248);
+  border-radius: 2%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: rgba(246, 141, 85, 0.954);
+}
+
+.card1{
+
+  width: 900px;
+  height:fit-content;
+  border: 1px solid rgba(246, 141, 85, 0.954);
+  border-radius: 0.5%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: rgba(246, 141, 85, 0.954);
+}
+
+.lili{
+  border:2px solid rgba(246, 141, 85, 0.954);
+  border-radius: 2%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 750px;
+  height:fit-content;
+  margin-top: 3%;
+  margin-left: 2%;
+  margin-right: 10%;
+  margin-bottom: 3%;
+  background-color: rgba(255, 255, 255, 0.954);
+  padding-top: 5px;
+
+}
+
+.list{
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
