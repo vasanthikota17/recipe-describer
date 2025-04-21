@@ -4,14 +4,14 @@ Recipe Describer is a web app where users can search for recipes and view step-b
 
 recipe-describer/
  ├── public/
- │   └── index.html          # Base HTML file. This is the entry point for the app, linking the React code to the HTML structure.
+ │   └── index.html          
  ├── src/
- │   ├── App.js              # Main React component that holds the core logic and structure of your app.
- │   ├── index.js            # The entry point for ReactDOM, rendering the main App component into the DOM.
- │   └── styles.css          # Custom styles for the app to give it a unique look.
- ├── package.json            # Manages dependencies, scripts, and project metadata like name, version, etc.
- ├── .gitignore              # Specifies which files or directories Git should ignore (e.g., node_modules, build folder).
- └── README.md               # Project description and any other relevant info about the project.
+ │   ├── App.js              
+ │   ├── index.js            
+ │   └── styles.css        
+ ├── package.json            
+ ├── .gitignore              
+ └── README.md               
 
 **Installation Instructions**
 
