@@ -3,10 +3,9 @@ Recipe Describer is a web app where users can search for recipes and view step-b
 
 
 recipe-describer/
-
- ├── public/
+ ├── public     /
  │   └─index.html          
- ├── src/
+ ├── src        /
  │   ├── App.js              
  │   ├── index.js            
  │   └── styles.css        
